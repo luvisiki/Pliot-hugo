@@ -7,7 +7,7 @@ disablePathToLower = true
 hasCJKLanguage = true
 copyright = ""
 [params]
-  author = "test"
+  author = "iplaycode"
   description = "Webstack Hugo"
 [params.search]
   enable = true
