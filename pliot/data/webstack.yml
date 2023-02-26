@@ -1,0 +1,267 @@
+---
+
+- taxonomy: 🌟
+  icon: fa-globe 
+  links:
+    - title: Bilibili
+      logo : assets/images/logos/Bilibili.png
+      url: https://www.bilibili.com/
+      description: 属鼠的家
+    - title: StackOverflow
+      logo : assets/images/logos/overflow.png
+      url: https://stackoverflow.com/
+      description: Additional products that reach and engage developers & technologists…
+    - title: Github个人主页
+      logo: assets/images/logos/github.png
+      url: https://github.com/luvisiki
+      description: 个人页面仓管
+- taxonomy: 常用
+  icon : fa-cubes
+  list:
+    - term: 学校和研学相关网址
+      links:
+        - title: 电科大个人信息中心登陆界面
+          logo : assets/images/logos/uestc.png
+          url: https://eportal.uestc.edu.cn/new/index.html?browser=no
+          description: 电科大，你的家我的家！
+        - title: ESIGELEC
+          logo : assets/images/logos/esigelec.svg
+          url: https://ent.esigelec.fr/course/
+          description: 🇫🇷交作业网站
+        - title: 谷歌学术
+          logo : assets/images/logos/google.png
+          url: https://scholar.google.com.hk/schhp?hl=zh-CN
+          description: 站在巨人的肩膀上
+        - title: Microsoft Azure
+          logo : assets/images/logos/azure.png
+          url: https://portal.azure.com/#home
+          description: 微软云，大多数有用的地方
+    - term: 🔧工具网站
+      links:
+        - title: Latex公式编辑器
+          # logo : assets/images/logos/google.png
+          url: https://www.latexlive.com/
+          description: 在线Latex编辑器，paper必备
+        - title: caj转换成pdf
+          logo : assets/images/logos/caj2pdf.png
+          url: https://caj2pdf.cn/
+          description: 在线知网垃圾caj转移成pdf
+        - title: Pubmed pro
+          logo : assets/images/logos/pubmed.png
+          url: https://www.pubmed.pro/home
+          description: pubmed查看文章影响因子
+        - title: ProcessOn
+          logo : assets/images/logos/process.svg
+          url: https://www.processon.com/
+          description: 流程图制作网站
+        - title: shields.io
+          url: https://shields.io/
+          logo: assets/images/logos/biaoqian.png
+          description: 制作github小标签
+        - title: chatGPT
+          logo: assets/images/logos/ChatGPT.png
+          url: https://chat.openai.com/chat
+          description: chatGPT无限想像和创造力
+        - title: LDtools
+          logo: assets/images/logos/Tools.png
+          url: https://ldtstore.com.cn/ldtools/
+          description: 电脑工具箱网站
+
+- taxonomy: BT论坛
+  icon : fa-cubes
+  list:
+    - term: BT-动漫类
+      links:
+        - title: MioBT
+          logo : assets/images/logos/miobt.ico
+          url: https://www.miobt.com
+          description: ＊MioBT＊★就是＊MioBT＊喵～ 
+        - title: 蜜柑计划
+          logo : assets/images/logos/mikan.png
+          url: https://mikanani.me
+          description: 蜜柑计划：新一代的动漫下载站
+        - title: ACGSou
+          logo : assets/images/logos/acgsou.png
+          url: https://www.36dm.club
+          description: 简单动漫不简单  
+        - title: 萌番组
+          logo : assets/images/logos/acgsou.png
+          url: https://bangumi.moe
+          description: bangumi   
+        - title: Anime字幕论坛
+          logo: assets/images/logos/Cartoon-Picture.png
+          url: https://bbs.acgrip.com/
+          description: 动漫字幕查找
+    - term: BT-影视类
+      links:
+        - title: EZTV
+          logo : assets/images/logos/eztv.png
+          url: http://eztv.pro
+          description: EZTV
+        - title: 海盗湾
+          logo : assets/images/logos/pirate.jpg
+          url: https://thepirates-bay.org/en1
+          description: 王的港湾！
+
+- taxonomy: 论坛
+  icon : fa-cubes
+  list:
+    - term: 游戏类
+      links:
+        - title: 3DM
+          logo : assets/images/logos/3dm.gif
+          url: https://bbs.3dmgame.com/
+          description: 
+        - title: Switch游戏下载
+          logo : assets/images/logos/switch_game.png
+          url: https://xxxxx520.com/
+          description: 蜜柑计划：新一代的动漫下载站
+        - title: Nexus-mod
+          logo : assets/images/logos/nexus.jpg
+          url: https://www.nexusmods.com/
+          description: N站mod  
+    - term: 资源类
+      links:
+        - title: yuc新番资讯
+          logo: assets/images/logos/yuc.jpg
+          url: https://yuc.wiki/
+          description: 四季新番汇总网站
+        - title: vcb-studio
+          logo: assets/images/logos/vcb.svg
+          url: https://vcb-s.com/
+          description: 大家一起创造的故事！
+        - title: KoolCenter
+          logo: assets/images/logos/koolcenter.svg
+          url: https://www.koolcenter.com/article/firmware/1_routers/
+          description: 华硕路由器系统的超级改造-meilin改！
+
+- taxonomy: 社区
+  icon: fa-cubes
+  links: 
+    - title: 雷锋网
+      logo: assets/images/logos/leiphone.png
+      url: https://www.leiphone.com/
+      description: 人工智能和智能硬件领域的互联网科技媒体
+    - title: 少数派
+      logo: assets/images/logos/sspai.png
+      url: https://sspai.com/
+      description: 高品质数字消费指南
+    - title: CHH
+      logo: assets/images/logos/chiphell.png
+      url: https://www.chiphell.com/forum.php
+      description: CHH评测、开箱论坛
+    - title: NGA
+      url: https://bbs.nga.cn/
+      description: 精英玩家俱乐部
+    - title: 什么值得买
+      logo: assets/images/logos/zdm.png
+      url: https://www.smzdm.com
+      description: 科学消费，认真生活
+    - title: 豆瓣网
+      logo: assets/images/logos/douban1.png
+      url: https://www.douban.com/
+      description: 经典豆瓣评分
+    - title: Reddit
+      logo: assets/images/logos/Reddit.png
+      url: https://www.reddit.com/
+      description: 红迪社区
+    - title: 知乎
+      logo: assets/images/logos/zhihu.png
+      url: https://www.zhihu.com/
+      description: 知乎寻找答案
+
+- taxonomy: 视频网站
+  icon : fa-cubes 
+  list:
+    - term: 直播类
+      links:
+        - title: 斗鱼
+          logo : assets/images/logos/douyu.png
+          url: https://www.douyu.com/
+          description: 海鲜台
+        - title: 虎牙
+          logo : assets/images/logos/huya.png
+          url: https://www.huya.com/
+          description: 虎牙台
+        - title: twitch
+          logo : assets/images/logos/Twitch.png
+          url: https://www.twitch.tv/
+          description: 老鼠台
+    - term: 视频
+      links:
+        - title: Plex
+          logo: assets/images/logos/plex.png
+          url: https://www.plex.tv/
+          description: Plex自建媒体库，官网跳转
+        - title: 爱奇艺
+          logo: assets/images/logos/iqiyi.png
+          url: https://www.iqiyi.com
+          description: 就是你叫做奇异果是吧
+        - title: 腾讯视频
+          logo: assets/images/logos/tentcent.jpeg
+          url: https://v.qq.com/
+          description: 缺德兄弟之一
+
+- taxonomy: 购物
+  icon: fa-cubes
+  links:
+    - title: 淘宝
+      logo : assets/images/logos/taobao.png
+      url: https://www.taobao.com/
+      description: 搜啥有啥
+    - title: 京东
+      logo : assets/images/logos/jd.png
+      url: https://www.jd.com
+      description: 搜啥有啥2
+
+- taxonomy: 数据类
+  icon: fa-cubes 
+  links:
+    - title: 阿里云
+      logo : assets/images/logos/aliyun.png
+      url: https://cn.aliyun.com/
+      description: 阿里云
+    - title: 腾讯云-翻译控制台
+      logo : assets/images/logos/tengxunyun.png
+      url: https://console.cloud.tencent.com/tmt
+      description: 腾讯云
+    - title: Vultr
+      url: https://www.vultr.com/
+      logo: assets/images/logos/fuwuqi.png
+      description: Vultr
+    - title: 站长之家
+      url: https://tool.chinaz.com/
+      logo: assets/images/logos/fuwuqi.png
+      description: 站长工具
+    - title: 机场推荐
+      url: https://duangks.com
+      logo: assets/images/logos/fuwuqi.png
+      description: 在服务器失效的时候，它十分的好用
+    - title: cloudflare
+      url: https://www.cloudflarestatus.com/
+      logo: assets/images/logos/cloudflare.png
+      description: Cloudflare provides performance and security to website owners via its intelligent global network. This is the system status for the Cloudflare service, both edge network and dashboard/APIs for management. 
+
+- taxonomy: 资源和技术手册
+  icon: fa-cubes 
+  links:
+    - title: zhelper 
+      logo : assets/images/logos/book.png
+      url: https://docs.zhelper.net/search/
+      description: ebook资源文档
+    - title: Pytorch-中文文档 
+      logo : assets/images/logos/pytorch.png
+      url: https://pytorch.apachecn.org/#/
+      description: PyTorch 是一个针对深度学习, 并且使用 GPU 和 CPU 来优化的 tensor library (张量库)
+    - title: python开发文档 
+      logo : assets/images/logos/python.png
+      url: https://docs.python.org/zh-cn/3.10/index.html
+      description: 技术文档查看
+    - title: python-scipy开发文档 
+      logo : assets/images/logos/python.png
+      url: https://docs.scipy.org/doc/scipy/
+      description: scipy科学库技术文档查看
+    - title: python-pandas开发文档 
+      logo : assets/images/logos/python.png
+      url: https://pypandas.cn/docs/
+      description: pandas中文网
