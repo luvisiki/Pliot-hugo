@@ -260,7 +260,7 @@
       url: https://docs.python.org/zh-cn/3.10/index.html
       description: 技术文档查看
     - title: python-scipy开发文档
-      logo: assets/images/logos/python.png
+      logo: assets/images/logos/pysci.svg
       url: https://docs.scipy.org/doc/scipy/
       description: scipy科学库技术文档查看
     - title: python-pandas开发文档
