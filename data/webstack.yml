@@ -271,3 +271,6 @@
     - title: vulkan编程手册（原文）
       url: https://vulkan-tutorial.com
       description: 官方教程
+    - title: QT for Python
+      url: https://doc.qt.io/qtforpython/
+      description: official Python bindings.
