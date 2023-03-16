@@ -268,3 +268,6 @@
       logo : assets/images/logos/python.png
       url: https://pypandas.cn/docs/
       description: pandas中文网
+    - title: vulkan编程手册（原文）
+      url: https://vulkan-tutorial.com
+      description: 官方教程
