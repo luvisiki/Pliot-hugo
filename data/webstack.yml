@@ -171,6 +171,9 @@
       logo: assets/images/logos/zhihu.png
       url: https://www.zhihu.com/
       description: 知乎寻找答案
+    - title: TMDB
+      url: https://www.themoviedb.org/
+      description: 电影剧集数据库
 
 - taxonomy: 视频网站
   icon: fa-cubes
