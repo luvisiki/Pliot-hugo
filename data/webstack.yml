@@ -136,7 +136,12 @@
           logo: assets/images/logos/koolcenter.svg
           url: https://www.koolcenter.com/article/firmware/1_routers/
           description: 华硕路由器系统的超级改造-meilin改！
-
+        - title: subhd字幕
+          url: https://subhd.tv/
+          description: 各种电影，电视剧的字幕
+        - title: zimuku库
+          url: https://zimuku.org/
+          description: 和subhd互补
 - taxonomy: 社区
   icon: fa-cubes
   links:
