@@ -283,3 +283,7 @@
       url: https://doc.qt.io/qtforpython/
       description: official Python bindings.
       logo: assets/images/logos/qtforpython.png
+    - title: decrypt
+      url: https://decrypt.day
+      description: 破壳IPA
+      logo: assets/images/logos/decrypt-logo.png
