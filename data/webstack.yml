@@ -94,6 +94,10 @@
           logo: assets/images/logos/Cartoon-Picture.png
           url: https://bbs.acgrip.com/
           description: 动漫字幕查找
+        - title: MAA-wiki
+          logo: assets/images/logos/maa.png
+          url: https://bbs.acgrip.com/
+          description: 动漫字幕查找
     - term: BT-影视类
       links:
         - title: EZTV
