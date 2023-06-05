@@ -261,7 +261,7 @@
   links:
     - title: zhelper
       logo: assets/images/logos/book.png
-      url: https://docs.zhelper.net/search/
+      url: https://tool.yibook.org
       description: ebook资源文档
     - title: Pytorch-中文文档
       logo: assets/images/logos/pytorch.png
