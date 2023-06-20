@@ -5,7 +5,7 @@
     - title: Bilibili
       logo: assets/images/logos/Bilibili.png
       url: https://www.bilibili.com/
-      description: 属鼠的家
+      description: 生活调味剂
     - title: StackOverflow
       logo: assets/images/logos/overflow.png
       url: https://stackoverflow.com/
@@ -291,3 +291,9 @@
       url: https://decrypt.day
       description: 破壳IPA
       logo: assets/images/logos/decrypt-logo.png
+    - title: MINTASCA WIKI
+      url: http://wiki.mintasca.com/wiki/cn/#!index.md
+      description: 机械臂（小）wiki网址
+    - title: CFW wiki
+      url: https://docs.cfw.lbyczf.com/
+      description: clash for windows 中文wiki
