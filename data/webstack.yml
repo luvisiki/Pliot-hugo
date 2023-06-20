@@ -144,11 +144,12 @@
           url: https://subhd.tv/
           description: 各种电影，电视剧的字幕
         - title: zimuku库
+          logo: assets/images/logos/zimuku.png
           url: https://zimuku.org/
           description: 和subhd互补
         - title: 佛系软件
           url: https://foxirj.com/
-          logo: assets/images/logos/koolcenter.svg
+          logo: assets/images/logos/foxiruanjian.png
           description: 软件分享平台
 - taxonomy: 社区
   icon: fa-cubes
