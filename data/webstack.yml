@@ -149,7 +149,6 @@
           description: 和subhd互补
         - title: 佛系软件
           url: https://foxirj.com/
-          logo: assets/images/logos/foxiruanjian.png
           description: 软件分享平台
 - taxonomy: 社区
   icon: fa-cubes
