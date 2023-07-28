@@ -138,7 +138,7 @@
           description: 大家一起创造的故事！
         - title: KoolCenter
           logo: assets/images/logos/koolcenter.svg
-          url: https://www.koolcenter.com/article/firmware/1_routers/
+          url: https://www.koolcenter.com
           description: 华硕路由器系统的超级改造-meilin改！
         - title: subhd字幕
           url: https://subhd.tv/
@@ -150,6 +150,7 @@
         - title: 佛系软件
           url: https://foxirj.com/
           description: 软件分享平台
+        
 - taxonomy: 社区
   icon: fa-cubes
   links:
