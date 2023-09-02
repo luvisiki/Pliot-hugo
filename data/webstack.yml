@@ -65,6 +65,58 @@
         #   url: https://www.waveshare.net/wiki/JETSON-NANO-DEV-KIT#MobaXterm.E6.96.87.E4.BB.B6.E4.BC.A0.E8.BE.93
         #   logo: assets/images/logos/jetson-nano.jpg
 
+
+- taxonomy: 资源和技术手册
+  icon: fa-cubes
+  links:
+    - title: zhelper
+      logo: assets/images/logos/book.png
+      url: https://tool.yibook.org
+      description: ebook资源文档
+    - title: Pytorch-中文文档
+      logo: assets/images/logos/pytorch.png
+      url: https://pytorch.apachecn.org/#/
+      description: PyTorch 是一个针对深度学习, 并且使用 GPU 和 CPU 来优化的 tensor library (张量库)
+    - title: python开发文档
+      logo: assets/images/logos/python.png
+      url: https://docs.python.org/zh-cn/3.10/index.html
+      description: 技术文档查看
+    - title: python-scipy开发文档
+      logo: assets/images/logos/pysci.svg
+      url: https://docs.scipy.org/doc/scipy/
+      description: scipy科学库技术文档查看
+    - title: python-pandas开发文档
+      logo: assets/images/logos/python.png
+      url: https://pypandas.cn/docs/
+      description: pandas中文网
+    - title: vulkan编程手册（原文）
+      url: https://vulkan-tutorial.com
+      description: 官方教程
+      logo: assets/images/logos/vulkan-logo.svg
+    - title: QT for Python
+      url: https://doc.qt.io/qtforpython/
+      description: official Python bindings.
+      logo: assets/images/logos/qtforpython.png
+    - title: decrypt
+      url: https://decrypt.day
+      description: 破壳IPA
+      logo: assets/images/logos/decrypt-logo.png
+    - title: MINTASCA WIKI
+      url: http://wiki.mintasca.com/wiki/cn/#!index.md
+      description: 机械臂（小）wiki网址
+    - title: CFW wiki
+      url: https://docs.cfw.lbyczf.com/
+      description: clash for windows 中文wiki
+    - title: MAA-wiki
+      logo: assets/images/logos/maa.png
+      url: https://maa.plus/docs/
+      description: maa脚本wiki
+    - title: OPENCV文档
+      logo: assets/images/logos/opencv.svg
+      url: https://docs.opencv.org/4.5.3/index.html
+      description: 计算机视觉库wiki
+
+
 - taxonomy: 论坛
   icon: fa-cubes
   list:
@@ -220,7 +272,7 @@
 #       url: https://www.jd.com
 #       description: 搜啥有啥2
 
-- taxonomy: 数据类
+- taxonomy: 云相关
   icon: fa-cubes
   links:
     - title: 阿里云
@@ -248,48 +300,3 @@
       logo: assets/images/logos/cloudflare.png
       description: Cloudflare provides performance and security to website owners via its intelligent global network. This is the system status for the Cloudflare service, both edge network and dashboard/APIs for management.
 
-- taxonomy: 资源和技术手册
-  icon: fa-cubes
-  links:
-    - title: zhelper
-      logo: assets/images/logos/book.png
-      url: https://tool.yibook.org
-      description: ebook资源文档
-    - title: Pytorch-中文文档
-      logo: assets/images/logos/pytorch.png
-      url: https://pytorch.apachecn.org/#/
-      description: PyTorch 是一个针对深度学习, 并且使用 GPU 和 CPU 来优化的 tensor library (张量库)
-    - title: python开发文档
-      logo: assets/images/logos/python.png
-      url: https://docs.python.org/zh-cn/3.10/index.html
-      description: 技术文档查看
-    - title: python-scipy开发文档
-      logo: assets/images/logos/pysci.svg
-      url: https://docs.scipy.org/doc/scipy/
-      description: scipy科学库技术文档查看
-    - title: python-pandas开发文档
-      logo: assets/images/logos/python.png
-      url: https://pypandas.cn/docs/
-      description: pandas中文网
-    - title: vulkan编程手册（原文）
-      url: https://vulkan-tutorial.com
-      description: 官方教程
-      logo: assets/images/logos/vulkan-logo.svg
-    - title: QT for Python
-      url: https://doc.qt.io/qtforpython/
-      description: official Python bindings.
-      logo: assets/images/logos/qtforpython.png
-    - title: decrypt
-      url: https://decrypt.day
-      description: 破壳IPA
-      logo: assets/images/logos/decrypt-logo.png
-    - title: MINTASCA WIKI
-      url: http://wiki.mintasca.com/wiki/cn/#!index.md
-      description: 机械臂（小）wiki网址
-    - title: CFW wiki
-      url: https://docs.cfw.lbyczf.com/
-      description: clash for windows 中文wiki
-    - title: MAA-wiki
-      logo: assets/images/logos/maa.png
-      url: https://maa.plus/docs/
-      description: maa脚本wiki
