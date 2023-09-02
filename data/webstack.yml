@@ -131,6 +131,18 @@
       logo: assets/images/logos/opencv.svg
       url: https://docs.opencv.org/4.5.3/index.html
       description: 计算机视觉库wiki，里面的官方tutorials在首页
+    - title: DOCKER学习手册
+      logo: assets/images/logos/docker.png
+      url: https://docker-practice.github.io/zh-cn/
+      description: 系统学习docker相关知识，加深理解并深度应用
+    - title : Kubernetes-tutorials
+      logo: assets/images/logos/k8s.jpg
+      url: https://k8s-tutorials.pages.dev/
+      description: k8s实战手册
+    - title : Kubernetes-officeDOC
+      logo: assets/images/logos/k8s.jpg
+      url: https://kubernetes.io/zh-cn/docs/concepts/overview/
+      description: k8s官方文档
 
 
 - taxonomy: 论坛
