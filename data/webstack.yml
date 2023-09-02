@@ -5,9 +5,11 @@
     - title: LeetCode
       logo: assets/images/logos/leetcode.png
       url: https://www.nowcoder.com/
+      description: 线上刷题，边练边想
     - title: 牛客
       logo: assets/images/logos/niuke.png
       url: https://www.nowcoder.com/
+      description: 求职信息共享
     - title: StackOverflow
       logo: assets/images/logos/overflow.png
       url: https://stackoverflow.com/
@@ -25,10 +27,6 @@
           logo: assets/images/logos/uestc.png
           url: https://eportal.uestc.edu.cn/new/index.html?browser=no
           description: 电科大，你的家我的家！
-        - title: ESIGELEC
-          logo: assets/images/logos/esigelec.svg
-          url: https://ent.esigelec.fr/course/
-          description: 🇫🇷交作业网站
         - title: 谷歌学术
           logo: assets/images/logos/google.png
           url: https://scholar.google.com.hk/schhp?hl=zh-CN
@@ -63,14 +61,14 @@
           logo: assets/images/logos/Tools.png
           url: https://ldtstore.com.cn/ldtools/
           description: 电脑工具箱网站
-        - title: 微雪-jetson nano wiki
-          url: https://www.waveshare.net/wiki/JETSON-NANO-DEV-KIT#MobaXterm.E6.96.87.E4.BB.B6.E4.BC.A0.E8.BE.93
-          logo: assets/images/logos/jetson-nano.jpg
+        # - title: 微雪-jetson nano wiki
+        #   url: https://www.waveshare.net/wiki/JETSON-NANO-DEV-KIT#MobaXterm.E6.96.87.E4.BB.B6.E4.BC.A0.E8.BE.93
+        #   logo: assets/images/logos/jetson-nano.jpg
 
-- taxonomy: BT论坛
+- taxonomy: 论坛
   icon: fa-cubes
   list:
-    - term: BT-动漫类
+    - term: 影视类
       links:
         - title: MioBT
           logo: assets/images/logos/miobt.ico
@@ -80,10 +78,6 @@
           logo: assets/images/logos/mikan.png
           url: https://mikanani.me
           description: 蜜柑计划：新一代的动漫下载站
-        - title: ACGSou
-          logo: assets/images/logos/acgsou.png
-          url: https://www.36dm.club
-          description: 简单动漫不简单
         - title: 萌番组
           logo: assets/images/logos/acgsou.png
           url: https://bangumi.moe
@@ -92,12 +86,6 @@
           logo: assets/images/logos/Cartoon-Picture.png
           url: https://bbs.acgrip.com/
           description: 动漫字幕查找
-        - title: MAA-wiki
-          logo: assets/images/logos/maa.png
-          url: https://maa.plus/docs/
-          description: maa脚本wiki
-    - term: BT-影视类
-      links:
         - title: EZTV
           logo: assets/images/logos/eztv.png
           url: http://eztv.pro
@@ -106,6 +94,7 @@
           logo: assets/images/logos/pirate.jpg
           url: https://thepirates-bay.org/en1
           description: 王的港湾！
+        
 
 - taxonomy: 论坛
   icon: fa-cubes
@@ -219,17 +208,17 @@
           url: https://v.qq.com/
           description: 缺德兄弟之一
 
-- taxonomy: 购物
-  icon: fa-cubes
-  links:
-    - title: 淘宝
-      logo: assets/images/logos/taobao.png
-      url: https://www.taobao.com/
-      description: 搜啥有啥
-    - title: 京东
-      logo: assets/images/logos/jd.png
-      url: https://www.jd.com
-      description: 搜啥有啥2
+# - taxonomy: 购物
+#   icon: fa-cubes
+#   links:
+#     - title: 淘宝
+#       logo: assets/images/logos/taobao.png
+#       url: https://www.taobao.com/
+#       description: 搜啥有啥
+#     - title: 京东
+#       logo: assets/images/logos/jd.png
+#       url: https://www.jd.com
+#       description: 搜啥有啥2
 
 - taxonomy: 数据类
   icon: fa-cubes
@@ -300,3 +289,7 @@
     - title: CFW wiki
       url: https://docs.cfw.lbyczf.com/
       description: clash for windows 中文wiki
+    - title: MAA-wiki
+      logo: assets/images/logos/maa.png
+      url: https://maa.plus/docs/
+      description: maa脚本wiki
