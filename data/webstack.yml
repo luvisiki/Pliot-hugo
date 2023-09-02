@@ -1,11 +1,13 @@
 ---
-- taxonomy: 🌟
+- taxonomy: 常用
   icon: fa-globe
   links:
-    - title: Bilibili
-      logo: assets/images/logos/Bilibili.png
-      url: https://www.bilibili.com/
-      description: 生活调味剂
+    - title: LeetCode
+      logo: assets/images/logos/leetcode.png
+      url: https://www.nowcoder.com/
+    - title: 牛客
+      logo: assets/images/logos/niuke.png
+      url: https://www.nowcoder.com/
     - title: StackOverflow
       logo: assets/images/logos/overflow.png
       url: https://stackoverflow.com/
@@ -41,10 +43,6 @@
           # logo : assets/images/logos/google.png
           url: https://www.latexlive.com/
           description: 在线Latex编辑器，paper必备
-        - title: caj转换成pdf
-          logo: assets/images/logos/caj2pdf.png
-          url: https://caj2pdf.cn/
-          description: 在线知网垃圾caj转移成pdf
         - title: Pubmed pro
           logo: assets/images/logos/pubmed.png
           url: https://www.pubmed.pro/home
