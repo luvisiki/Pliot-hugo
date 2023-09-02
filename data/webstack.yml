@@ -93,6 +93,14 @@
       url: https://vulkan-tutorial.com
       description: 官方教程
       logo: assets/images/logos/vulkan-logo.svg
+    - title: opengl学习手册（CN）
+      url: https://learnopengl-cn.github.io/
+      description: 面向工资编程其中之一，感受图形编程的魅力
+      logo: assets/images/logos/opengl.gif
+    - title: opengl官方增强文档（EN）
+      url: https://docs.gl/
+      description: opengl文档
+      logo: assets/images/logos/opengl.gif
     - title: QT for Python
       url: https://doc.qt.io/qtforpython/
       description: official Python bindings.
@@ -114,7 +122,7 @@
     - title: OPENCV文档
       logo: assets/images/logos/opencv.svg
       url: https://docs.opencv.org/4.5.3/index.html
-      description: 计算机视觉库wiki
+      description: 计算机视觉库wiki，里面的官方tutorials在首页
 
 
 - taxonomy: 论坛
