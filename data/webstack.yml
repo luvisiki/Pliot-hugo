@@ -147,6 +147,35 @@
           url: https://thepirates-bay.org/en1
           description: 王的港湾！
         
+- taxonomy: 云相关
+  icon: fa-cubes
+  links:
+    - title: 阿里云
+      logo: assets/images/logos/aliyun.png
+      url: https://cn.aliyun.com/
+      description: 阿里云
+    - title: 腾讯云-翻译控制台
+      logo: assets/images/logos/tengxunyun.png
+      url: https://console.cloud.tencent.com/tmt
+      description: 腾讯云
+    - title: Vultr
+      url: https://www.vultr.com/
+      logo: assets/images/logos/fuwuqi.png
+      description: Vultr
+    - title: 站长之家
+      url: https://tool.chinaz.com/
+      logo: assets/images/logos/fuwuqi.png
+      description: 站长工具
+    - title: 机场推荐
+      url: https://duangks.com
+      logo: assets/images/logos/fuwuqi.png
+      description: 在服务器失效的时候，它十分的好用
+    - title: cloudflare
+      url: https://www.cloudflarestatus.com/
+      logo: assets/images/logos/cloudflare.png
+      description: Cloudflare provides performance and security to website owners via its intelligent global network. This is the system status for the Cloudflare service, both edge network and dashboard/APIs for management.
+
+
 
 - taxonomy: 论坛
   icon: fa-cubes
@@ -231,34 +260,18 @@
 - taxonomy: 视频网站
   icon: fa-cubes
   list:
-    - term: 直播类
-      links:
-        - title: 斗鱼
-          logo: assets/images/logos/douyu.png
-          url: https://www.douyu.com/
-          description: 海鲜台
-        - title: 虎牙
-          logo: assets/images/logos/huya.png
-          url: https://www.huya.com/
-          description: 虎牙台
-        - title: twitch
-          logo: assets/images/logos/Twitch.png
-          url: https://www.twitch.tv/
-          description: 老鼠台
+        
     - term: 视频
       links:
         - title: Plex
           logo: assets/images/logos/plex.png
           url: https://www.plex.tv/
           description: Plex自建媒体库，官网跳转
-        - title: 爱奇艺
-          logo: assets/images/logos/iqiyi.png
-          url: https://www.iqiyi.com
-          description: 就是你叫做奇异果是吧
-        - title: 腾讯视频
-          logo: assets/images/logos/tentcent.jpeg
-          url: https://v.qq.com/
-          description: 缺德兄弟之一
+        - title: twitch
+          logo: assets/images/logos/Twitch.png
+          url: https://www.twitch.tv/
+          description: 老鼠台
+        
 
 # - taxonomy: 购物
 #   icon: fa-cubes
@@ -271,32 +284,4 @@
 #       logo: assets/images/logos/jd.png
 #       url: https://www.jd.com
 #       description: 搜啥有啥2
-
-- taxonomy: 云相关
-  icon: fa-cubes
-  links:
-    - title: 阿里云
-      logo: assets/images/logos/aliyun.png
-      url: https://cn.aliyun.com/
-      description: 阿里云
-    - title: 腾讯云-翻译控制台
-      logo: assets/images/logos/tengxunyun.png
-      url: https://console.cloud.tencent.com/tmt
-      description: 腾讯云
-    - title: Vultr
-      url: https://www.vultr.com/
-      logo: assets/images/logos/fuwuqi.png
-      description: Vultr
-    - title: 站长之家
-      url: https://tool.chinaz.com/
-      logo: assets/images/logos/fuwuqi.png
-      description: 站长工具
-    - title: 机场推荐
-      url: https://duangks.com
-      logo: assets/images/logos/fuwuqi.png
-      description: 在服务器失效的时候，它十分的好用
-    - title: cloudflare
-      url: https://www.cloudflarestatus.com/
-      logo: assets/images/logos/cloudflare.png
-      description: Cloudflare provides performance and security to website owners via its intelligent global network. This is the system status for the Cloudflare service, both edge network and dashboard/APIs for management.
 
