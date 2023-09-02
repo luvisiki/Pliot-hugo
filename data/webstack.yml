@@ -143,6 +143,14 @@
       logo: assets/images/logos/k8s.jpg
       url: https://kubernetes.io/zh-cn/docs/concepts/overview/
       description: k8s官方文档
+    - title : 鸟哥私房菜
+      logo: assets/images/logos/linux.png
+      url: https://linux.vbird.org/
+      description: linux论坛，非常适合各种不同层次的linux使用者
+    - title : linux手册
+      logo: assets/images/logos/linux.png
+      url: https://dunwu.github.io/linux-tutorial/
+      description: 运维方面的手册
 
 
 - taxonomy: 论坛
