@@ -8,7 +8,7 @@
       description: 对算法进行梳理并且深层理解，配合力扣使用
     - title: LeetCode
       logo: assets/images/logos/leetcode.png
-      url: https://www.nowcoder.com/
+      url: https://leetcode.cn/
       description: 线上刷题，边练边想
     - title: 牛客
       logo: assets/images/logos/niuke.png
