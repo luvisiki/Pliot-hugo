@@ -151,6 +151,10 @@
       logo: assets/images/logos/linux.png
       url: https://dunwu.github.io/linux-tutorial/
       description: 运维方面的手册
+    - title : CMake COOKBOOK
+      logo: assets/images/logos/cmake.png
+      url: https://www.bookstack.cn/read/CMake-Cookbook/README.md
+      description: cmake使用手册,包含案例
 
 
 - taxonomy: 论坛
