@@ -65,9 +65,10 @@
           logo: assets/images/logos/Tools.png
           url: https://ldtstore.com.cn/ldtools/
           description: 电脑工具箱网站
-        # - title: 微雪-jetson nano wiki
-        #   url: https://www.waveshare.net/wiki/JETSON-NANO-DEV-KIT#MobaXterm.E6.96.87.E4.BB.B6.E4.BC.A0.E8.BE.93
-        #   logo: assets/images/logos/jetson-nano.jpg
+        - title: openwrt自定义固件生成器
+          logo: assets/images/logos/R-C.png
+          url: https://openwrt.ai/?target=x86%2F64&id=generic
+          description: 可自定义在线定指固件,官方纯净
 
 
 - taxonomy: 资源和技术手册
