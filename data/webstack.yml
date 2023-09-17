@@ -157,7 +157,7 @@
       description: cmake使用手册,包含案例
 
 
-- taxonomy: 论坛
+- taxonomy: 论坛/博客
   icon: fa-cubes
   list:
     - term: 影视类
@@ -169,7 +169,7 @@
         - title: 蜜柑计划
           logo: assets/images/logos/mikan.png
           url: https://mikanani.me
-          description: 蜜柑计划：新一代的动漫下载站
+          description: 蜜柑计划
         - title: 萌番组
           logo: assets/images/logos/acgsou.png
           url: https://bangumi.moe
@@ -178,14 +178,26 @@
           logo: assets/images/logos/Cartoon-Picture.png
           url: https://bbs.acgrip.com/
           description: 动漫字幕查找
-        - title: EZTV
-          logo: assets/images/logos/eztv.png
-          url: http://eztv.pro
-          description: EZTV
-        - title: 海盗湾
-          logo: assets/images/logos/pirate.jpg
-          url: https://thepirates-bay.org/en1
-          description: 王的港湾！
+        - title: 云风BLOG
+          url: https://blog.codingnow.com/
+          description: 网易大佬
+        - title: 美图计数团队
+          # logo: assets/images/logos/Cartoon-Picture.png
+          url: https://tech.meituan.com/
+          description: 干货满满
+        - title: 阮一峰的网络日志
+          url: https://www.ruanyifeng.com/blog/
+          description: 不多说了，每周必看
+        - title: 酷壳
+          url: https://coolshell.cn/
+          description: 悼念，希望都能注意身体
+        - title: 廖雪峰文章
+          url: https://www.liaoxuefeng.com/
+          description: 适合新手的教程
+        - title: 刘未鹏 | Mind Hacks
+          url: http://mindhacks.cn/
+          description: 
+          
         
 - taxonomy: 云相关
   icon: fa-cubes
