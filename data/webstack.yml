@@ -1,6 +1,6 @@
 ---
 - taxonomy: 常用
-  icon: fa-globe
+  icon: fas fa-star
   links:
     - title: 代码随想录
       logo: assets/images/logos/suixiang.png
@@ -22,57 +22,59 @@
       logo: assets/images/logos/github.png
       url: https://github.com/luvisiki
       description: 个人页面仓管
-- taxonomy: 常用
-  icon: fa-cubes
-  list:
-    - term: 学校和研学相关网址
-      links:
-        - title: 电科大个人信息中心登陆界面
-          logo: assets/images/logos/uestc.png
-          url: https://eportal.uestc.edu.cn/new/index.html?browser=no
-          description: 电科大，你的家我的家！
-        - title: 谷歌学术
-          logo: assets/images/logos/google.png
-          url: https://scholar.google.com.hk/schhp?hl=zh-CN
-          description: 站在巨人的肩膀上
-        - title: Microsoft Azure
-          logo: assets/images/logos/azure.png
-          url: https://portal.azure.com/#home
-          description: 微软云，大多数有用的地方
-    - term: 🔧工具网站
-      links:
-        - title: Latex公式编辑器
-          # logo : assets/images/logos/google.png
-          url: https://www.latexlive.com/
-          description: 在线Latex编辑器，paper必备
-        - title: Pubmed pro
-          logo: assets/images/logos/pubmed.png
-          url: https://www.pubmed.pro/home
-          description: pubmed查看文章影响因子
-        - title: ProcessOn
-          logo: assets/images/logos/process.svg
-          url: https://www.processon.com/
-          description: 流程图制作网站
-        - title: shields.io
-          url: https://shields.io/
-          logo: assets/images/logos/biaoqian.png
-          description: 制作github小标签
-        - title: chatGPT
-          logo: assets/images/logos/ChatGPT.png
-          url: https://chat.openai.com/chat
-          description: chatGPT无限想像和创造力
-        - title: LDtools
-          logo: assets/images/logos/Tools.png
-          url: https://ldtstore.com.cn/ldtools/
-          description: 电脑工具箱网站
-        - title: openwrt自定义固件生成器
-          logo: assets/images/logos/R-C.png
-          url: https://openwrt.ai/?target=x86%2F64&id=generic
-          description: 可自定义在线定指固件,官方纯净
+
+- taxonomy: 研学
+  icon: fas fa-graduation-cap
+  links:
+    - title: 电科大个人信息中心登陆界面
+      logo: assets/images/logos/uestc.png
+      url: https://eportal.uestc.edu.cn/new/index.html?browser=no
+      description: 电科大，你的家我的家！
+    - title: 谷歌学术
+      logo: assets/images/logos/google.png
+      url: https://scholar.google.com.hk/schhp?hl=zh-CN
+      description: 站在巨人的肩膀上
+    - title: Microsoft Azure
+      logo: assets/images/logos/azure.png
+      url: https://portal.azure.com/#home
+      description: 微软云，大多数有用的地方
+
+
+- taxonomy: 工具
+  icon: fas fa-toolbox
+  links:
+    - title: Latex公式编辑器
+      # logo : assets/images/logos/google.png
+      url: https://www.latexlive.com/
+      description: 在线Latex编辑器，paper必备
+    - title: Pubmed pro
+      logo: assets/images/logos/pubmed.png
+      url: https://www.pubmed.pro/home
+      description: pubmed查看文章影响因子
+    - title: ProcessOn
+      logo: assets/images/logos/process.svg
+      url: https://www.processon.com/
+      description: 流程图制作网站
+    - title: shields.io
+      url: https://shields.io/
+      logo: assets/images/logos/biaoqian.png
+      description: 制作github小标签
+    - title: chatGPT
+      logo: assets/images/logos/ChatGPT.png
+      url: https://chat.openai.com/chat
+      description: 语言模型,编程问答好伙伴
+    - title: LDtools
+      logo: assets/images/logos/Tools.png
+      url: https://ldtstore.com.cn/ldtools/
+      description: 电脑工具箱网站
+    - title: openwrt自定义固件生成器
+      logo: assets/images/logos/R-C.png
+      url: https://openwrt.ai/?target=x86%2F64&id=generic
+      description: 可自定义在线定指固件,官方纯净
 
 
 - taxonomy: 资源和技术手册
-  icon: fa-cubes
+  icon: fas fa-terminal
   links:
     - title: zhelper
       logo: assets/images/logos/book.png
@@ -121,9 +123,6 @@
     - title: MINTASCA WIKI
       url: http://wiki.mintasca.com/wiki/cn/#!index.md
       description: 机械臂（小）wiki网址
-    - title: CFW wiki
-      url: https://docs.cfw.lbyczf.com/
-      description: clash for windows 中文wiki
     - title: MAA-wiki
       logo: assets/images/logos/maa.png
       url: https://maa.plus/docs/
@@ -136,32 +135,32 @@
       logo: assets/images/logos/docker.png
       url: https://docker-practice.github.io/zh-cn/
       description: 系统学习docker相关知识，加深理解并深度应用
-    - title : Kubernetes-tutorials
+    - title: Kubernetes-tutorials
       logo: assets/images/logos/k8s.jpg
       url: https://k8s-tutorials.pages.dev/
       description: k8s实战手册
-    - title : Kubernetes-officeDOC
+    - title: Kubernetes-officeDOC
       logo: assets/images/logos/k8s.jpg
       url: https://kubernetes.io/zh-cn/docs/concepts/overview/
       description: k8s官方文档
-    - title : 鸟哥私房菜
+    - title: 鸟哥私房菜
       logo: assets/images/logos/linux.png
       url: https://linux.vbird.org/
       description: linux论坛，非常适合各种不同层次的linux使用者
-    - title : linux手册
+    - title: linux手册
       logo: assets/images/logos/linux.png
       url: https://dunwu.github.io/linux-tutorial/
       description: 运维方面的手册
-    - title : CMake COOKBOOK
+    - title: CMake COOKBOOK
       logo: assets/images/logos/cmake.png
       url: https://www.bookstack.cn/read/CMake-Cookbook/README.md
       description: cmake使用手册,包含案例
 
 
 - taxonomy: 论坛/博客
-  icon: fa-cubes
+  icon: fas fa-comment
   list:
-    - term: 影视类
+    - term: 论坛
       links:
         - title: MioBT
           logo: assets/images/logos/miobt.ico
@@ -179,60 +178,6 @@
           logo: assets/images/logos/Cartoon-Picture.png
           url: https://bbs.acgrip.com/
           description: 动漫字幕查找
-        - title: 云风BLOG
-          url: https://blog.codingnow.com/
-          description: 网易大佬
-        - title: 美图计数团队
-          # logo: assets/images/logos/Cartoon-Picture.png
-          url: https://tech.meituan.com/
-          description: 干货满满
-        - title: 阮一峰的网络日志
-          url: https://www.ruanyifeng.com/blog/
-          description: 不多说了，每周必看
-        - title: 酷壳
-          url: https://coolshell.cn/
-          description: 悼念，希望都能注意身体
-        - title: 廖雪峰文章
-          url: https://www.liaoxuefeng.com/
-          description: 适合新手的教程
-        - title: 刘未鹏 | Mind Hacks
-          url: http://mindhacks.cn/
-          description: 
-          
-        
-- taxonomy: 云相关
-  icon: fa-cubes
-  links:
-    - title: 阿里云
-      logo: assets/images/logos/aliyun.png
-      url: https://cn.aliyun.com/
-      description: 阿里云
-    - title: 腾讯云-翻译控制台
-      logo: assets/images/logos/tengxunyun.png
-      url: https://console.cloud.tencent.com/tmt
-      description: 腾讯云
-    - title: Vultr
-      url: https://www.vultr.com/
-      logo: assets/images/logos/fuwuqi.png
-      description: Vultr
-    - title: 站长之家
-      url: https://tool.chinaz.com/
-      logo: assets/images/logos/fuwuqi.png
-      description: 站长工具
-    - title: 机场推荐
-      url: https://duangks.com
-      logo: assets/images/logos/fuwuqi.png
-      description: 在服务器失效的时候，它十分的好用
-    - title: cloudflare
-      url: https://www.cloudflarestatus.com/
-      logo: assets/images/logos/cloudflare.png
-      description: Cloudflare provides performance and security to website owners via its intelligent global network. This is the system status for the Cloudflare service, both edge network and dashboard/APIs for management.
-
-
-
-- taxonomy: 论坛
-  icon: fa-cubes
-  list:
     - term: 游戏类
       links:
         - title: 3DM
@@ -271,9 +216,37 @@
         - title: 佛系软件
           url: https://foxirj.com/
           description: 软件分享平台
-        
+
+- taxonomy: 云相关
+  icon: fas fa-hat-wizard
+  links:
+    - title: 阿里云
+      logo: assets/images/logos/aliyun.png
+      url: https://cn.aliyun.com/
+      description: 阿里云
+    - title: 腾讯云-翻译控制台
+      logo: assets/images/logos/tengxunyun.png
+      url: https://console.cloud.tencent.com/tmt
+      description: 腾讯云
+    - title: Vultr
+      url: https://www.vultr.com/
+      logo: assets/images/logos/fuwuqi.png
+      description: Vultr
+    - title: 站长之家
+      url: https://tool.chinaz.com/
+      logo: assets/images/logos/fuwuqi.png
+      description: 站长工具
+    - title: 机场推荐
+      url: https://duangks.com
+      logo: assets/images/logos/fuwuqi.png
+      description: 在服务器失效的时候，它十分的好用
+    - title: cloudflare
+      url: https://www.cloudflarestatus.com/
+      logo: assets/images/logos/cloudflare.png
+      description: Cloudflare provides performance and security to website owners via its intelligent global network. This is the system status for the Cloudflare service, both edge network and dashboard/APIs for management.
+
 - taxonomy: 社区
-  icon: fa-cubes
+  icon: fas fa-comments
   links:
     - title: 雷锋网
       logo: assets/images/logos/leiphone.png
@@ -307,24 +280,24 @@
       url: https://www.zhihu.com/
       description: 知乎寻找答案
     - title: TMDB
+      logo: assets/images/logos/Web.png
       url: https://www.themoviedb.org/
       description: 电影剧集数据库
 
 - taxonomy: 视频网站
-  icon: fa-cubes
-  list:
-        
-    - term: 视频
-      links:
-        - title: Plex
-          logo: assets/images/logos/plex.png
-          url: https://www.plex.tv/
-          description: Plex自建媒体库，官网跳转
-        - title: twitch
-          logo: assets/images/logos/Twitch.png
-          url: https://www.twitch.tv/
-          description: 老鼠台
-        
+  icon: fas fa-icons
+#  list:
+#    - term: 视频
+  links:
+    - title: Plex
+      logo: assets/images/logos/plex.png
+      url: https://www.plex.tv/
+      description: Plex自建媒体库，官网跳转
+    - title: twitch
+      logo: assets/images/logos/Twitch.png
+      url: https://www.twitch.tv/
+      description: 老鼠台
+
 
 # - taxonomy: 购物
 #   icon: fa-cubes
