@@ -146,7 +146,7 @@
     - title: 鸟哥私房菜
       logo: assets/images/logos/linux.png
       url: https://linux.vbird.org/
-      description: linux论坛，非常适合各种不同层次的linux使用者
+      description: linux论坛
     - title: linux手册
       logo: assets/images/logos/linux.png
       url: https://dunwu.github.io/linux-tutorial/
