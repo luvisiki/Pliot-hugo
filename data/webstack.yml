@@ -130,7 +130,7 @@
     - title: OPENCV文档
       logo: assets/images/logos/opencv.svg
       url: https://docs.opencv.org/4.5.3/index.html
-      description: 计算机视觉库wiki，里面的官方tutorials在首页
+      description: 计算机视觉库wiki，里面的官方tutorials在首页位置
     - title: DOCKER学习手册
       logo: assets/images/logos/docker.png
       url: https://docker-practice.github.io/zh-cn/
