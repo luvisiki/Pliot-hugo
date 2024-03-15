@@ -22,6 +22,12 @@
       logo: assets/images/logos/github.png
       url: https://github.com/luvisiki
       description: 个人页面仓管
+    - title: 招聘表格1
+      url: https://docs.qq.com/sheet/DS0pJWVFSb1lET1Jl?tab=zm6f7t
+    - title: 招聘表格2 (代码随想录知识星球)
+      url: https://docs.qq.com/sheet/DTlpqbmRqWnBiSmVL?tab=BB08J2&_t=1709703836809&u=f6a53782f01c4680a1ff9daa9edb0eb3
+    - title: 知识星球学习资源
+      url: https://wx.zsxq.com/dweb2/index/columns/88511825151142
 
 - taxonomy: 研学
   icon: fas fa-graduation-cap
