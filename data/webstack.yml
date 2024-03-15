@@ -222,6 +222,9 @@
         - title: 佛系软件
           url: https://foxirj.com/
           description: 软件分享平台
+        - title: Macked
+          url: https://macked.app/
+          description: 专注于mac软件分享
 
 - taxonomy: 云相关
   icon: fas fa-hat-wizard
