@@ -157,6 +157,10 @@
       logo: assets/images/logos/linux.png
       url: https://dunwu.github.io/linux-tutorial/
       description: 运维方面的手册
+    - title: k8s学习手册
+      logo: assets/images/logos/k8s.jpg
+      url: https://learn-k8s-from-scratch.readthedocs.io/en/latest/
+      description: k8s学习手册
     - title: CMake COOKBOOK
       logo: assets/images/logos/cmake.png
       url: https://www.bookstack.cn/read/CMake-Cookbook/README.md
