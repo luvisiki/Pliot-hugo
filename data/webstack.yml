@@ -86,6 +86,9 @@
       logo: assets/images/logos/book.png
       url: https://tool.yibook.org
       description: ebook资源文档
+    - title: Mermaid
+      url: https://mermaid.js.org/intro/
+      description: 可以渲染受Markdown启发的文本定义，以动态创建和修改图表。
     - title: C++手册
       logo: assets/images/logos/C++.jpg
       url: https://interview.huihut.com/#/
