@@ -149,6 +149,10 @@
       logo: assets/images/logos/k8s.jpg
       url: https://kubernetes.io/zh-cn/docs/concepts/overview/
       description: k8s官方文档
+    - title: k8s两小时教程
+      url: https://www.yuque.com/wukong-zorrm/qdoy5p
+      logo: assets/images/logos/k8s.jpg
+      description: k8s新版本脱离了docker，且教程配合实战演示。
     - title: 鸟哥私房菜
       logo: assets/images/logos/linux.png
       url: https://linux.vbird.org/
