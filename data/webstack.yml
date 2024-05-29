@@ -160,6 +160,14 @@
       url: https://www.yuque.com/wukong-zorrm/qdoy5p
       logo: assets/images/logos/k8s.jpg
       description: k8s新版本脱离了docker，且教程配合实战演示。
+    - title: k8s折腾笔记
+      url: https://todoit.tech/k8s/
+      logo: assets/images/logos/k8s.jpg
+      description: 最近发现的优质笔记
+    - title: k8s训练营
+      url: https://docs.youdianzhishi.com/k8s/
+      logo: assets/images/logos/k8s.jpg
+      description: 
     - title: k8s CRD原理解释
       url: https://www.zeng.dev/post/2023-k8s-api-by-crd/
       logo: assets/images/logos/k8s.jpg
