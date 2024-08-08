@@ -169,7 +169,7 @@
       logo: assets/images/logos/k8s.jpg
       description: 
     - title: 云原生应用架构实战手册
-      url: https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-definition.html
+      url: https://jimmysong.io/
       logo: assets/images/logos/k8s.jpg
       description: jimmysong大神编写的指南
     - title: k8s CRD原理解释
