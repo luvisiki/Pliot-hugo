@@ -44,7 +44,9 @@
       logo: assets/images/logos/azure.png
       url: https://portal.azure.com/#home
       description: 微软云，大多数有用的地方
-
+    - title: UESTC校友邮箱
+      logo: assets/images/logos/uestc.png
+      url: http://mail.alu.uestc.edu.cn/
 
 - taxonomy: 工具
   icon: fas fa-toolbox
